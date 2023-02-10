@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "482866487893",
+    "project_id": "smsreadapp",
+    "storage_bucket": "smsreadapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482866487893:android:fb64ed9e6a50114623aadc",
+        "android_client_info": {
+          "package_name": "com.example.sms_read_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482866487893-eojq0cpbn272c1it6ln1q762h0pe2ijh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sms_read_app",
+            "certificate_hash": "267a899e0606ab7f26414af65f66c761782f8e54"
+          }
+        },
+        {
+          "client_id": "482866487893-23345393qf9ucoutjp1b7c6h8m1njvk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6uLiEMKpgBwMJRR_fVzQ2fbsKpR3TL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482866487893-23345393qf9ucoutjp1b7c6h8m1njvk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482866487893-4upvl346btbj2q3rksmdif95jomsv9ob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smsReadApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
