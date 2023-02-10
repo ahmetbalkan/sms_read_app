@@ -1,6 +1,6 @@
 Merhaba,
 
-Sms alıp firebase yazan basit bir uygulama yazdım. Twitterda talep oldugunu görünce. Umarım işinize yarar.
+Twitterda talep oldugunu görünce sms alıp firebase yazan basit bir uygulama yazdım.  Umarım işinize yarar.
 
 | İzin | Ana Sayfa | İzin | Ana Sayfa |
 | --- | --- | --- | --- |
