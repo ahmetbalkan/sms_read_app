@@ -1,16 +1,4 @@
-# sms_read_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Command | Description |
+| --- | --- |
+| ![alt text](https://i.ibb.co/sbSmWhW/1.jpg) | ![alt text](https://i.ibb.co/MS4ZhQD/2.jpg) |
+|![alt text](https://i.ibb.co/mBcp5VK/3.jpg) | ![alt text](https://i.ibb.co/DbCB6sm/4.jpg) |
