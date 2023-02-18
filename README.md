@@ -1,6 +1,6 @@
 Merhaba,
 
-Twitterda talep oldugunu görünce sms alıp firebase yazan basit bir uygulama yazdım.  Umarım işinize yarar.
+Telefona gelen smsleri firebase yazmamızı sağlayan uygulamam.
 
 | İzin | Ana Sayfa | Sms Dinleme | Firebase |
 | --- | --- | --- | --- |
